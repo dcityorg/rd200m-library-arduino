@@ -1,0 +1,25 @@
+{
+  "name": "Dcity_RD200M",
+  "keywords": "radon,RD200M,sensor,library",
+  "description": "RD200M Radon Sensor Library for Arduino and related microcontrollers using serial interface",
+  "authors":
+  {
+	  "name": "DCITY",
+	  "email": "gary@dcity.org",
+	  "url": "https://www.dcity.org/",
+	  "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/dcityorg/rd200m-library-arduino.git"
+  },
+  "version": "1.0.0",
+  "examples": [
+    "examples/*/*.ino"
+  ],
+  "url": "https://www.dcity.org/",
+  "exclude": "extras",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

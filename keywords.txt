@@ -1,0 +1,23 @@
+###########################################
+# Syntax Coloring Map For Dcity_RD200M
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Dcity_RD200M	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+available	KEYWORD2
+getRadon	KEYWORD2
+getMinutes	KEYWORD2
+getStatus	KEYWORD2
+setPeriod	KEYWORD2
+reset	KEYWORD2
+requestData	KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
